@@ -1,0 +1,17 @@
+black
+datasets
+datasketch
+duckdb
+faiss-cpu
+ftfy
+isort
+Jinja2
+matplotlib
+numpy
+openai
+pydantic>=2.0
+pytest
+rich
+rouge-score
+torch==2.4.0
+transformers
